@@ -1,0 +1,22 @@
+{
+  "name": "foxjs",
+  "version": "1.0.0",
+  "description": "Custom js library for html and svg work together",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zdenek-Hochman/FoxJS.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Zdeněk Hochman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zdenek-Hochman/FoxJS/issues"
+  },
+  "homepage": "https://github.com/Zdenek-Hochman/FoxJS#readme"
+}
